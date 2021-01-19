@@ -49,4 +49,4 @@ Un git par apprenant avec les éléments suivants:
 durée: 2 jours
 groupe: individuel
 
-[my work](.script-zone/clust-mand.ipynb)
+[my work](./script-zone/clust-mand.ipynb)
