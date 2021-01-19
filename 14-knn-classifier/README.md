@@ -112,6 +112,7 @@ Proposition non optimisée de l’algorithme kNN.
 * Si régression, retourner la moyenne des k étiquettes.Si classification, retourner le mode (valeur la plus fréquente/commune) des k étiquettes
 17. Bonus 2 : Comparer les résultats avec un autre algorithme de classification.
 
-[My work](./script-zone/knn-classifier.ipynb)
+## [Link to my work](./script-zone/knn-classifier.ipynb)
+
 
 
