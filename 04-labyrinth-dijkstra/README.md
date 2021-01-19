@@ -7,5 +7,5 @@ On a appris à parcourir un arbre, en choisissant par exemple d’aller à droit
 
 ### « Dans le labyrinthe, tu ne te perds pas... tu te retrouves »
 
-[my work](./script-zone/labyrinth_dij.ipynb)
+## [Link to my work](./script-zone/labyrinth_dij.ipynb)
 
