@@ -51,3 +51,6 @@ En vous appuyant sur ces données, Construisez un modèle de Random Forest perme
 5. Prédire si Arthur 53 ans, fumeur, sportif, 175 cm, 85 kg, avec un taux de cholestérol au dessus de la normal et un taux de glucose normal, une tension artérielle systolique dans la moyenne et une pression sanguine diastolique correspondant à la moyenne du 3e quartile (50%-75%) du jeu de données, est un sujet à risques cardio-vasculaires.
 6. Rendre accessible votre notebook via Github.
 7. Partager votre lien github.
+
+## [Link to my work](./script-zone/random-forest.ipynb)
+
