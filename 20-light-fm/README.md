@@ -95,3 +95,5 @@ The world is large and we know just a small part of it, dont forget the big pict
 # Livrable
 
 notebook and code for the backend (if a backend is done)
+
+## [Link to my work](./script-zone/light_fm.ipynb)
