@@ -82,4 +82,5 @@ Biensur, j'ai autant envie de travailler pour l'entreprise une fois mon alternan
 * Avez-vous des questions à nous poser ?
 
 
- 
+ My name is <strong>Joshua</strong>, I'm a profesionnal <strong><b>junior data developper</b></strong>. I'm capable of extracting data and structuring it into a database using the ER model for conceptualisation. I'm also learning to analyse data and visualise it by means of the programming langage Python among other tools. 
+									<br><br>When I'm not playing with data I'm always around the kitchen creating new recipes or on video games slaying bosses.
